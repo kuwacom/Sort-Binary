@@ -1,0 +1,22 @@
+{
+    "targetPath": "./binaries",
+    "sortTargets": [
+        {
+            "type": "PNG",
+            "extension": "png"
+        },
+        {
+            "type": "JFIF",
+            "extension": "jpeg"
+        },
+        {
+            "type": "Ogg",
+            "extension": "ogg"
+        },
+        {
+            "type": "ftyp",
+            "extension": "mp4"
+        }
+    ],
+    "distPath": "./assets"
+}
